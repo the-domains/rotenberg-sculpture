@@ -1,0 +1,14 @@
+layout_spectrum: 0.5741973312105983
+typography_spectrum: 0.7078223291318864
+color:
+  brandStrength: 0.962313245749101
+  lightness: 0.6582917084451765
+  saturation: 0.042665034998208284
+  rhythmicContrast: 0.40535936527885497
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: rotenberg sculpture
