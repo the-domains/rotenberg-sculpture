@@ -1,14 +1,19 @@
-layout_spectrum: 0.5741973312105983
 typography_spectrum: 0.7078223291318864
+content_rating:
+  adult: false
 color:
   brandStrength: 0.962313245749101
   lightness: 0.6582917084451765
   saturation: 0.042665034998208284
   rhythmicContrast: 0.40535936527885497
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.5741973312105983
+author:
+  name: Jule Rotenberg
+  email: jule-rotenberg@earthlink.net
 name: rotenberg sculpture
