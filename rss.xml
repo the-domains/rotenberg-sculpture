@@ -4,8 +4,22 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 13:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 13:40:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PRISCILLA]]></title>
+            <description><![CDATA[<article><h1>PRISCILLA</h1><p>This dramatic pose, like a bird in flight, requires tremendous strength. Her countenance marked with stubborn pride, her thrown head and extended arms reveal a wild abandonment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f80d6d9851cd382884b9fa53419220d3d9da3de.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/priscilla/index.html</link>
+            <guid isPermaLink="false">5cbc3e18-f7f4-4dbe-9b8c-4457b11f8bef</guid>
+            <pubDate>Tue, 02 Aug 2016 13:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CORINNE]]></title>
+            <description><![CDATA[<article><h1>CORINNE</h1><p>Adorned with four thorny spindles of twisted hair, tenously balanced en releve - she is suspended like a marionette without strings. She extends her energy far beyond her own limbs to sustain this position.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ca30506e95fac0b96fbe034c3a60deb547128d8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/corinne/index.html</link>
+            <guid isPermaLink="false">011b6206-4ffb-43fd-be29-c703c032e55c</guid>
+            <pubDate>Tue, 02 Aug 2016 13:40:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ELIZABETH]]></title>
             <description><![CDATA[<article><h1>ELIZABETH</h1><p>The Queen? This crowned icon balances like a jester in her own court. Her regal mask cannot hide her clownish antics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd9865ccb2553bfde1689ea27eeb8d23f655d7bc.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/nisa/index.html</link>
             <guid isPermaLink="false">3be94e7f-0934-41a1-8ed8-52f3094ad417</guid>
             <pubDate>Tue, 02 Aug 2016 13:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MARTHA]]></title>
-            <description><![CDATA[<article><h1>MARTHA</h1><p>Inspired by Martha Graham, one of the pioneers of modern dance. Graham developed her own vocabulary of movement when ballet was considered the only widely accepted form of dance. Eschewing the rules of ballet, she found beauty in movement critics likened to giving birth - the contraction - a violence, a forced exhalation of breath. The ribbon represents her blind devotion to her art - “Keep the channel open ... no artist is pleased. There is only a queer divine dissatisfaction, a blessed unrest that keeps us marching and makes us more alive than the others” she wrote to Agnes de Mille.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a11347d6b2c863556bc03e71728ddc52aa98ab2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/martha/index.html</link>
-            <guid isPermaLink="false">fcd793ae-10c9-4470-a3f4-fa0eb2b23a6e</guid>
-            <pubDate>Tue, 02 Aug 2016 13:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70a1a6ed77371c3f94effb42e983f69e4861565d.jpg" alt="&quot;Little Women No. 3&quot;  bronze                                                                          18&quot;h x 10&quot;w x 6&quot;d">]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-3/index.html</link>
-            <guid isPermaLink="false">0893e17d-545e-4713-a156-0c0413f79d5b</guid>
-            <pubDate>Tue, 02 Aug 2016 13:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
