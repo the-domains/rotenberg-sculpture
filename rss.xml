@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[rotenberg sculpture]]></title>
         <description><![CDATA[rotenberg sculpture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 13:39:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 13:39:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marion]]></title>
+            <description><![CDATA[<article><h1>Marion</h1><p>Marion  bronze on black granite                                                                        32"h x 10"w x 10"d</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c720570a18be42e17e91585d80d9129/croprotate.jpg?cropheight=3600&cropwidth=1265&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2674280a-ea1f-41df-93c3-26fe0fdd1861.jpg&x=615&y=0"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/marion/index.html</link>
+            <guid isPermaLink="false">0db202a0-ee31-405c-b3b5-0d369b7eea28</guid>
+            <pubDate>Tue, 02 Aug 2016 13:39:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JULE ROTENBERG]]></title>
             <description><![CDATA[<article><h1>JULE ROTENBERG</h1><p>My interest has always been to capture the essence of my subject and allow the viewer to find a spiritual and emotional connection with it. I mean to contradict the apparent notion that a form made from bronze should be static. For me, dance best conveys this and is my inspiration. Since the beginning, this intention has translated into less detail and an avoidance of illustrative exactness. It allowed for revealing traces of the modeling process and the natural textures of the materials. It encouraged freedom to exaggerate anatomy and stretch apparent reality. I am always drawn to the beauty and power of the human form and willing to move beyond its limitations to express the spirit within.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ac1d81-a1de-4353-81cf-1d14ecd652f7.jpg"></article>]]></description>
