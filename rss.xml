@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 13:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 13:40:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ESTHER]]></title>
+            <description><![CDATA[<article><h1>ESTHER</h1><p>This nimble acrobat exudes grace and beauty, reminiscent of a pose from the water ballets performed by Esther Williams.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd097114efb9c823414c7052eceb7b85c085242c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/esther/index.html</link>
+            <guid isPermaLink="false">278f8652-a0fa-4994-a254-66645f94127b</guid>
+            <pubDate>Tue, 02 Aug 2016 13:40:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ISABELLE]]></title>
             <description><![CDATA[<article><h1>ISABELLE</h1><p>Reclined in contraction, she expresses a sad vulnerability, a hollow loss, a quiet lamentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a6e4680138879126c26ededec06f067e0ac7bf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-1/index.html</link>
             <guid isPermaLink="false">63037deb-9ded-4723-a384-6ec9ea6ef403</guid>
             <pubDate>Tue, 02 Aug 2016 13:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a067756b95f4f0bb1e71d877bf4b7a3403f346c.jpg" alt="&quot;Little Women No. 2&quot;  bronze                                                                           15.5&quot;h x 8.5&quot;d x 6.5&quot;w">]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-2/index.html</link>
-            <guid isPermaLink="false">d293ba3a-7276-478e-a928-32951ea4e80f</guid>
-            <pubDate>Tue, 02 Aug 2016 13:39:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
