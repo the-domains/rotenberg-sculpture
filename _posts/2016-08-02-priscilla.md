@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-08-02T13:40:40.188Z'
+datePublished: '2016-08-06T04:16:30.358Z'
+sourcePath: _posts/2016-08-02-priscilla.md
 author: []
 via: {}
-dateModified: '2016-07-28T05:04:09.471Z'
+dateModified: '2016-08-06T04:16:29.950Z'
 title: PRISCILLA
 publisher: {}
 description: >-
@@ -10,7 +11,6 @@ description: >-
   countenance marked with stubborn pride, her thrown head and extended arms
   reveal a wild abandonment.
 starred: false
-sourcePath: _posts/2016-08-02-priscilla.md
 inFeed: true
 hasPage: true
 inNav: false
