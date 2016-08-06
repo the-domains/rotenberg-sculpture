@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-02T13:39:31.207Z'
+datePublished: '2016-08-06T04:13:30.474Z'
+sourcePath: _posts/2016-08-02-exhibitions.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg
 author: []
 via: {}
-dateModified: '2016-07-28T05:27:44.003Z'
+dateModified: '2016-08-06T04:13:29.973Z'
 title: EXHIBITIONS
 publisher: {}
 description: >-
   May 21-22, 2016 - “Beverly Hills artSHOW,” Beverly Hills, CAOctober 21-22,
   2015 -
 starred: false
-sourcePath: _posts/2016-08-02-exhibitions.md
 inFeed: true
 hasPage: false
 inNav: false
