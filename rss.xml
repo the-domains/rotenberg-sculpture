@@ -4,8 +4,22 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 04:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 04:09:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ESTHER]]></title>
+            <description><![CDATA[<article><h1>ESTHER</h1><p>This nimble acrobat exudes grace and beauty, reminiscent of a pose from the water ballets performed by Esther Williams.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd097114efb9c823414c7052eceb7b85c085242c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/esther/index.html</link>
+            <guid isPermaLink="false">278f8652-a0fa-4994-a254-66645f94127b</guid>
+            <pubDate>Sat, 06 Aug 2016 04:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DRAPED]]></title>
+            <description><![CDATA[<article><h1>DRAPED</h1><p>limited edition of ten - only one more left!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de66b07ea721d005b6c44b87f08e5c3a303ad85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/draped/index.html</link>
+            <guid isPermaLink="false">a81c9783-3871-4101-a403-cb247cf35dc6</guid>
+            <pubDate>Sat, 06 Aug 2016 04:08:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ANGELE]]></title>
             <description><![CDATA[<article><h1>ANGELE</h1><p>I find myself as an artist often welcoming the little joys of circumstance. So early on when this "dancer" fell off my sculpting stand, her outstretched waxen arm now pointing in the opposite direction, I conceived a new dancer. "Angele"So beautiful and graceful was she that the Gods took notice and gave her wings whereby she might reside in heaven. Yet she longs to dance upon the earth. This longing mixed with what I imagine any messenger of God would feel, the weight of man's sorrow and pain tempered by the hope for his enlightenment, perhaps accounts for the tinge of melancholy in her expression.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47a65379caf21a9cc27724812673a2b8e17ce977.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/corinne/index.html</link>
             <guid isPermaLink="false">011b6206-4ffb-43fd-be29-c703c032e55c</guid>
             <pubDate>Tue, 02 Aug 2016 13:40:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ELIZABETH]]></title>
-            <description><![CDATA[<article><h1>ELIZABETH</h1><p>The Queen? This crowned icon balances like a jester in her own court. Her regal mask cannot hide her clownish antics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd9865ccb2553bfde1689ea27eeb8d23f655d7bc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/elizabeth/index.html</link>
-            <guid isPermaLink="false">951f560a-a6bf-4530-85ed-0554b0ae8b1b</guid>
-            <pubDate>Tue, 02 Aug 2016 13:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ESTHER]]></title>
-            <description><![CDATA[<article><h1>ESTHER</h1><p>This nimble acrobat exudes grace and beauty, reminiscent of a pose from the water ballets performed by Esther Williams.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd097114efb9c823414c7052eceb7b85c085242c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/esther/index.html</link>
-            <guid isPermaLink="false">278f8652-a0fa-4994-a254-66645f94127b</guid>
-            <pubDate>Tue, 02 Aug 2016 13:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
