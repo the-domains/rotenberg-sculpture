@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T04:16:30.358Z'
+datePublished: '2016-08-06T14:24:07.320Z'
 sourcePath: _posts/2016-08-02-priscilla.md
 author: []
 via: {}
-dateModified: '2016-08-06T04:16:29.950Z'
+dateModified: '2016-08-06T14:24:06.867Z'
 title: PRISCILLA
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Priscilla - bronze on black granite                                                               23.5"h x 11.5"w x 10.5"d](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f80d6d9851cd382884b9fa53419220d3d9da3de.jpg)
+!["Priscilla" - bronze on black granite                                                             23.5"h x 11.5"w x 10.5"d](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f80d6d9851cd382884b9fa53419220d3d9da3de.jpg)
 
 ### **PRISCILLA**
 
