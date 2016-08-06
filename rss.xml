@@ -4,22 +4,8 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 04:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 04:11:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BIRDMAN NO. 1]]></title>
-            <description><![CDATA[<article><h1>BIRDMAN NO. 1</h1><h2>Perched</h2><p>Enraged and violent</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e69a10ab6babd767eef9f93a71b34e795789387.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/birdman-no-1/index.html</link>
-            <guid isPermaLink="false">cb94b286-bbf3-49e3-be1c-6ee12eca7d93</guid>
-            <pubDate>Sat, 06 Aug 2016 04:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RITA]]></title>
-            <description><![CDATA[<article><h1>RITA</h1><p>"Rita" bronze on black granite                                                                              34"h x 10"w x 10"d</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb256dc83d3cf5fd3c62bd6eb867068e4d70515.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/rita/index.html</link>
-            <guid isPermaLink="false">ab4ec52d-f86a-494b-bf85-a77c832c68a1</guid>
-            <pubDate>Sat, 06 Aug 2016 04:11:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[BIRDMAN NO. 3]]></title>
             <description><![CDATA[<article><h1>BIRDMAN NO. 3</h1><h2>Standing</h2><p>Proud and mighty cock</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40abbf2c86da070ec5ad4edba148e5f4b747a34c.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/rotenberg-sculpture/angele/index.html</link>
             <guid isPermaLink="false">7f6313e3-aa74-4976-8c90-0628d94f3705</guid>
             <pubDate>Tue, 02 Aug 2016 13:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MARIE]]></title>
+            <description><![CDATA[<article><h1>MARIE</h1><p>Of an 18th century fashion inspired by Marie Antoinette. The position is a simple elevation with the upper torso stretched back and to the side. It is a gentle gesture, a quiet giving.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d97f7bfbfbfff8e54aa5444315866def258a1c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/marie/index.html</link>
+            <guid isPermaLink="false">8a1d7ed7-a78d-43cd-808b-afdb6c91fcd6</guid>
+            <pubDate>Tue, 02 Aug 2016 13:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PRISCILLA]]></title>
+            <description><![CDATA[<article><h1>PRISCILLA</h1><p>This dramatic pose, like a bird in flight, requires tremendous strength. Her countenance marked with stubborn pride, her thrown head and extended arms reveal a wild abandonment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f80d6d9851cd382884b9fa53419220d3d9da3de.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/priscilla/index.html</link>
+            <guid isPermaLink="false">5cbc3e18-f7f4-4dbe-9b8c-4457b11f8bef</guid>
+            <pubDate>Tue, 02 Aug 2016 13:40:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
