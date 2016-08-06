@@ -4,8 +4,22 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 04:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 04:16:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a067756b95f4f0bb1e71d877bf4b7a3403f346c.jpg" alt="&quot;Little Women No. 2&quot;  bronze                                                                           15.5&quot;h x 8.5&quot;d x 6.5&quot;w">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-2/index.html</link>
+            <guid isPermaLink="false">d293ba3a-7276-478e-a928-32951ea4e80f</guid>
+            <pubDate>Sat, 06 Aug 2016 04:16:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3353f809dbece0ad315aec86addc4ba7985c1567.jpg" alt="&quot;Little Women No. 1&quot;  bronze                                                                              16&quot;h x 7.5&quot;w x 7.5&quot;d">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-1/index.html</link>
+            <guid isPermaLink="false">63037deb-9ded-4723-a384-6ec9ea6ef403</guid>
+            <pubDate>Sat, 06 Aug 2016 04:16:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CORINNE]]></title>
             <description><![CDATA[<article><h1>CORINNE</h1><p>Adorned with four thorny spindles of twisted hair, tenously balanced en releve - she is suspended like a marionette without strings. She extends her energy far beyond her own limbs to sustain this position.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ca30506e95fac0b96fbe034c3a60deb547128d8.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/rita/index.html</link>
             <guid isPermaLink="false">ab4ec52d-f86a-494b-bf85-a77c832c68a1</guid>
             <pubDate>Sat, 06 Aug 2016 04:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIRDMAN NO. 3]]></title>
-            <description><![CDATA[<article><h1>BIRDMAN NO. 3</h1><h2>Standing</h2><p>Proud and mighty cock</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40abbf2c86da070ec5ad4edba148e5f4b747a34c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/birdman-no-3/index.html</link>
-            <guid isPermaLink="false">dfb8d88b-9565-4ca6-ba26-580cda786d5b</guid>
-            <pubDate>Sat, 06 Aug 2016 04:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ESTHER]]></title>
-            <description><![CDATA[<article><h1>ESTHER</h1><p>This nimble acrobat exudes grace and beauty, reminiscent of a pose from the water ballets performed by Esther Williams.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd097114efb9c823414c7052eceb7b85c085242c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/esther/index.html</link>
-            <guid isPermaLink="false">278f8652-a0fa-4994-a254-66645f94127b</guid>
-            <pubDate>Sat, 06 Aug 2016 04:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
