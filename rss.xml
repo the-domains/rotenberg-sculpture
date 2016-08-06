@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 04:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 04:16:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PRISCILLA]]></title>
+            <description><![CDATA[<article><h1>PRISCILLA</h1><p>This dramatic pose, like a bird in flight, requires tremendous strength. Her countenance marked with stubborn pride, her thrown head and extended arms reveal a wild abandonment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f80d6d9851cd382884b9fa53419220d3d9da3de.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/priscilla/index.html</link>
+            <guid isPermaLink="false">5cbc3e18-f7f4-4dbe-9b8c-4457b11f8bef</guid>
+            <pubDate>Sat, 06 Aug 2016 04:16:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a067756b95f4f0bb1e71d877bf4b7a3403f346c.jpg" alt="&quot;Little Women No. 2&quot;  bronze                                                                           15.5&quot;h x 8.5&quot;d x 6.5&quot;w">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/birdman-no-1/index.html</link>
             <guid isPermaLink="false">cb94b286-bbf3-49e3-be1c-6ee12eca7d93</guid>
             <pubDate>Sat, 06 Aug 2016 04:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RITA]]></title>
-            <description><![CDATA[<article><h1>RITA</h1><p>"Rita" bronze on black granite                                                                              34"h x 10"w x 10"d</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb256dc83d3cf5fd3c62bd6eb867068e4d70515.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/rita/index.html</link>
-            <guid isPermaLink="false">ab4ec52d-f86a-494b-bf85-a77c832c68a1</guid>
-            <pubDate>Sat, 06 Aug 2016 04:11:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
