@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 04:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 04:13:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EXHIBITIONS]]></title>
+            <description><![CDATA[<article><h1>EXHIBITIONS</h1><p>May 21-22, 2016 - “Beverly Hills artSHOW,” Beverly Hills, CAOctober 21-22, 2015 -</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg</link>
+            <guid isPermaLink="false">6de57ec0-abe0-4b52-b703-1524a49a0dfb</guid>
+            <pubDate>Sat, 06 Aug 2016 04:13:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JULE ROTENBERG]]></title>
             <description><![CDATA[<article><h1>JULE ROTENBERG</h1><p>My interest has always been to capture the essence of my subject and allow the viewer to find a spiritual and emotional connection with it. I mean to contradict the apparent notion that a form made from bronze should be static. For me, dance best conveys this and is my inspiration. Since the beginning, this intention has translated into less detail and an avoidance of illustrative exactness. It allowed for revealing traces of the modeling process and the natural textures of the materials. It encouraged freedom to exaggerate anatomy and stretch apparent reality. I am always drawn to the beauty and power of the human form and willing to move beyond its limitations to express the spirit within.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ac1d81-a1de-4353-81cf-1d14ecd652f7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/angele/index.html</link>
             <guid isPermaLink="false">9afad41a-ecc8-46b6-b0ca-f440f442be2d</guid>
             <pubDate>Sat, 06 Aug 2016 04:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ISABELLE]]></title>
-            <description><![CDATA[<article><h1>ISABELLE</h1><p>Reclined in contraction, she expresses a sad vulnerability, a hollow loss, a quiet lamentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a6e4680138879126c26ededec06f067e0ac7bf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/isabelle/index.html</link>
-            <guid isPermaLink="false">3ff50c43-2d29-46b3-9999-9c63723410b3</guid>
-            <pubDate>Sat, 06 Aug 2016 04:08:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
