@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-02T13:40:34.094Z'
+datePublished: '2016-08-06T04:17:41.560Z'
+sourcePath: _posts/2016-08-02-elizabeth.md
 author: []
 via: {}
-dateModified: '2016-07-28T05:34:27.318Z'
+dateModified: '2016-08-06T04:17:41.137Z'
 title: ELIZABETH
 publisher: {}
 description: >-
   The Queen? This crowned icon balances like a jester in her own court. Her
   regal mask cannot hide her clownish antics.
 starred: false
-sourcePath: _posts/2016-08-02-elizabeth.md
 inFeed: true
 hasPage: true
 inNav: false
