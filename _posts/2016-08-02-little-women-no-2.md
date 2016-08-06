@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-02T13:39:47.570Z'
+datePublished: '2016-08-06T04:16:17.386Z'
+sourcePath: _posts/2016-08-02-little-women-no-2.md
 author: []
 via: {}
-dateModified: '2016-08-02T06:22:24.845Z'
+dateModified: '2016-08-06T04:16:17.002Z'
 title: ''
 publisher: {}
 description: LITTLE WOMEN NO. 2
 starred: false
-sourcePath: _posts/2016-08-02-little-women-no-2.md
 inFeed: true
 hasPage: true
 inNav: false
