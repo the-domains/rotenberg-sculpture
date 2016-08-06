@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-02T13:39:22.280Z'
+datePublished: '2016-08-06T04:13:20.037Z'
+sourcePath: _posts/2016-08-02-jule-rotenberg.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ac1d81-a1de-4353-81cf-1d14ecd652f7.jpg
 author: []
 via: {}
-dateModified: '2016-07-28T05:17:05.188Z'
+dateModified: '2016-08-06T04:13:19.565Z'
 title: JULE ROTENBERG
 publisher: {}
 description: >-
@@ -19,7 +20,6 @@ description: >-
   beauty and power of the human form and willing to move beyond its limitations
   to express the spirit within.
 starred: false
-sourcePath: _posts/2016-08-02-jule-rotenberg.md
 inFeed: true
 hasPage: false
 inNav: false
