@@ -1,4 +1,4 @@
-typography_spectrum: 0.7078223291318864
+typography_spectrum: 0.7576317121274769
 content_rating:
   adult: false
 color:
@@ -12,7 +12,7 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-layout_spectrum: 0.5741973312105983
+layout_spectrum: 0.29122599796392024
 author:
   name: Jule Rotenberg
   email: jule-rotenberg@earthlink.net
