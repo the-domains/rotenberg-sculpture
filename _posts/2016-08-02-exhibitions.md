@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T04:13:30.474Z'
+datePublished: '2016-08-09T04:19:49.493Z'
 sourcePath: _posts/2016-08-02-exhibitions.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg
 author: []
 via: {}
-dateModified: '2016-08-06T04:13:29.973Z'
+dateModified: '2016-08-09T04:19:49.015Z'
 title: EXHIBITIONS
 publisher: {}
 description: >-
