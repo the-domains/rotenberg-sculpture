@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 04:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 04:20:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3353f809dbece0ad315aec86addc4ba7985c1567.jpg" alt="&quot;Little Women No. 1&quot;  bronze                                                                              16&quot;h x 7.5&quot;w x 7.5&quot;d">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-1/index.html</link>
+            <guid isPermaLink="false">63037deb-9ded-4723-a384-6ec9ea6ef403</guid>
+            <pubDate>Tue, 09 Aug 2016 04:20:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EXHIBITIONS]]></title>
             <description><![CDATA[<article><h1>EXHIBITIONS</h1><p>May 21-22, 2016 - “Beverly Hills artSHOW,” Beverly Hills, CAOctober 21-22, 2015 -</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/martha/index.html</link>
             <guid isPermaLink="false">fcd793ae-10c9-4470-a3f4-fa0eb2b23a6e</guid>
             <pubDate>Sat, 06 Aug 2016 04:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a067756b95f4f0bb1e71d877bf4b7a3403f346c.jpg" alt="&quot;Little Women No. 2&quot;  bronze                                                                           15.5&quot;h x 8.5&quot;d x 6.5&quot;w">]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-2/index.html</link>
-            <guid isPermaLink="false">d293ba3a-7276-478e-a928-32951ea4e80f</guid>
-            <pubDate>Sat, 06 Aug 2016 04:16:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
