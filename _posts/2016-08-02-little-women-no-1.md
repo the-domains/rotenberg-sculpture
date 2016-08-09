@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T04:16:06.119Z'
+datePublished: '2016-08-09T04:20:02.639Z'
 sourcePath: _posts/2016-08-02-little-women-no-1.md
 author: []
 via: {}
-dateModified: '2016-08-06T04:16:05.616Z'
+dateModified: '2016-08-09T04:20:02.099Z'
 title: ''
 publisher: {}
 description: LITTLE WOMEN NO. 1
