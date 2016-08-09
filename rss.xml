@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 04:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 04:20:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b82428b-a383-4f87-9a86-b2e7e8f077f3.jpg">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/e2dd5753-1c64-4467-9a54-58e70ff87d84/index.html</link>
+            <guid isPermaLink="false">e2dd5753-1c64-4467-9a54-58e70ff87d84</guid>
+            <pubDate>Tue, 09 Aug 2016 04:20:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3353f809dbece0ad315aec86addc4ba7985c1567.jpg" alt="&quot;Little Women No. 1&quot;  bronze                                                                              16&quot;h x 7.5&quot;w x 7.5&quot;d">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/elizabeth/index.html</link>
             <guid isPermaLink="false">951f560a-a6bf-4530-85ed-0554b0ae8b1b</guid>
             <pubDate>Sat, 06 Aug 2016 04:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MARTHA]]></title>
-            <description><![CDATA[<article><h1>MARTHA</h1><p>Inspired by Martha Graham, one of the pioneers of modern dance. Graham developed her own vocabulary of movement when ballet was considered the only widely accepted form of dance. Eschewing the rules of ballet, she found beauty in movement critics likened to giving birth - the contraction - a violence, a forced exhalation of breath. The ribbon represents her blind devotion to her art - “Keep the channel open ... no artist is pleased. There is only a queer divine dissatisfaction, a blessed unrest that keeps us marching and makes us more alive than the others” she wrote to Agnes de Mille.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a11347d6b2c863556bc03e71728ddc52aa98ab2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/martha/index.html</link>
-            <guid isPermaLink="false">fcd793ae-10c9-4470-a3f4-fa0eb2b23a6e</guid>
-            <pubDate>Sat, 06 Aug 2016 04:17:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
