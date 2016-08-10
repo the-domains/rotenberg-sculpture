@@ -4,15 +4,8 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 04:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 04:58:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Marion]]></title>
-            <description><![CDATA[<article><h1>Marion</h1><p>Marion  bronze on black granite                                                                        32"h x 10"w x 10"d</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c720570a18be42e17e91585d80d9129/croprotate.jpg?cropheight=3600&cropwidth=1265&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2674280a-ea1f-41df-93c3-26fe0fdd1861.jpg&x=615&y=0"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/marion/index.html</link>
-            <guid isPermaLink="false">0db202a0-ee31-405c-b3b5-0d369b7eea28</guid>
-            <pubDate>Wed, 10 Aug 2016 04:58:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[RITA]]></title>
             <description><![CDATA[<article><h1>RITA</h1><p>"Rita" bronze on black granite                                                                              34"h x 10"w x 10"d</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb256dc83d3cf5fd3c62bd6eb867068e4d70515.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/rotenberg-sculpture/nisa/index.html</link>
             <guid isPermaLink="false">3be94e7f-0934-41a1-8ed8-52f3094ad417</guid>
             <pubDate>Sat, 06 Aug 2016 04:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ANGELE]]></title>
+            <description><![CDATA[<article><h1>ANGELE</h1><p>I find myself as an artist often welcoming the little joys of circumstance. So early on when this "dancer" fell off my sculpting stand, her outstretched waxen arm now pointing in the opposite direction, I conceived a new dancer. "Angele"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99f40962d7fc58614484066bf91471322cc4d751.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/angele/index.html</link>
+            <guid isPermaLink="false">7f6313e3-aa74-4976-8c90-0628d94f3705</guid>
+            <pubDate>Sat, 06 Aug 2016 04:17:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
