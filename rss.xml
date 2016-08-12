@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 04:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 04:29:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ESTHER]]></title>
+            <description><![CDATA[<article><h1>ESTHER</h1><p>This nimble acrobat exudes grace and beauty, reminiscent of a pose from the water ballets performed by Esther Williams.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd097114efb9c823414c7052eceb7b85c085242c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/esther/index.html</link>
+            <guid isPermaLink="false">278f8652-a0fa-4994-a254-66645f94127b</guid>
+            <pubDate>Fri, 12 Aug 2016 04:29:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DRAPED]]></title>
             <description><![CDATA[<article><h1>DRAPED</h1><p>limited edition of ten - only one more left!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de66b07ea721d005b6c44b87f08e5c3a303ad85.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/birdman-no-3/index.html</link>
             <guid isPermaLink="false">dfb8d88b-9565-4ca6-ba26-580cda786d5b</guid>
             <pubDate>Tue, 09 Aug 2016 04:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GISELLE]]></title>
-            <description><![CDATA[<article><h1>GISELLE</h1><p>Her movement is reminiscent of the flight of a gazelle. In dance, this position is called a back layout and requires great abdominal strength with a release of the head and arms. Unlike a gazelle’s soft, lustrous eyes, Giselle’s eyes are masked with a hard protective gaze.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/188570e18efbb4afe6c69da6cdf8cb7b4c6e17cc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/giselle/index.html</link>
-            <guid isPermaLink="false">7cf4b1dd-b0bb-4061-8bb6-b965ceee7a08</guid>
-            <pubDate>Sun, 07 Aug 2016 05:32:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
