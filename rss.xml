@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 05:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:14:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a067756b95f4f0bb1e71d877bf4b7a3403f346c.jpg" alt="&quot;Little Women No. 2&quot;  bronze                                                                           15.5&quot;h x 8.5&quot;d x 6.5&quot;w">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-2/index.html</link>
+            <guid isPermaLink="false">d293ba3a-7276-478e-a928-32951ea4e80f</guid>
+            <pubDate>Fri, 12 Aug 2016 05:14:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3353f809dbece0ad315aec86addc4ba7985c1567.jpg" alt="&quot;Little Women No. 1&quot;  bronze                                                                              16&quot;h x 7.5&quot;w x 7.5&quot;d">]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg</link>
             <guid isPermaLink="false">6de57ec0-abe0-4b52-b703-1524a49a0dfb</guid>
             <pubDate>Fri, 12 Aug 2016 04:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ANGELE]]></title>
-            <description><![CDATA[<article><h1>ANGELE</h1><p>I find myself as an artist often welcoming the little joys of circumstance. So early on when this "dancer" fell off my sculpting stand, her outstretched waxen arm now pointing in the opposite direction, I conceived a new dancer. "Angele"So beautiful and graceful was she that the Gods took notice and gave her wings whereby she might reside in heaven. Yet she longs to dance upon the earth. This longing mixed with what I imagine any messenger of God would feel, the weight of man's sorrow and pain tempered by the hope for his enlightenment, perhaps accounts for the tinge of melancholy in her expression.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47a65379caf21a9cc27724812673a2b8e17ce977.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/angele/index.html</link>
-            <guid isPermaLink="false">9afad41a-ecc8-46b6-b0ca-f440f442be2d</guid>
-            <pubDate>Fri, 12 Aug 2016 04:38:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
