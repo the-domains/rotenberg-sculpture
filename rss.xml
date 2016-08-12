@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 05:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:16:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NISA]]></title>
+            <description><![CDATA[<article><h1>NISA</h1><p>Her sad face tells of many, thwarted attempts to free herself from her slave’s coil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/284e9d1339c98b186df40bdd2a4ca16de7057a73.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/nisa/index.html</link>
+            <guid isPermaLink="false">3be94e7f-0934-41a1-8ed8-52f3094ad417</guid>
+            <pubDate>Fri, 12 Aug 2016 05:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CORINNE]]></title>
             <description><![CDATA[<article><h1>CORINNE</h1><p>Adorned with four thorny spindles of twisted hair, tenously balanced en releve - she is suspended like a marionette without strings. She extends her energy far beyond her own limbs to sustain this position.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ca30506e95fac0b96fbe034c3a60deb547128d8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/isabelle/index.html</link>
             <guid isPermaLink="false">3ff50c43-2d29-46b3-9999-9c63723410b3</guid>
             <pubDate>Fri, 12 Aug 2016 05:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DRAPED]]></title>
-            <description><![CDATA[<article><h1>DRAPED</h1><p>limited edition of ten - only one more left!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de66b07ea721d005b6c44b87f08e5c3a303ad85.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/draped/index.html</link>
-            <guid isPermaLink="false">a81c9783-3871-4101-a403-cb247cf35dc6</guid>
-            <pubDate>Fri, 12 Aug 2016 05:07:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
