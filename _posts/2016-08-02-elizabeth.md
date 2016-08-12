@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T04:17:41.560Z'
+datePublished: '2016-08-12T05:17:26.822Z'
 sourcePath: _posts/2016-08-02-elizabeth.md
 author: []
 via: {}
-dateModified: '2016-08-06T04:17:41.137Z'
+dateModified: '2016-08-12T05:17:26.304Z'
 title: ELIZABETH
 publisher: {}
 description: >-
@@ -23,3 +23,7 @@ _type: Article
 # **ELIZABETH**
 
 The Queen? This crowned icon balances like a jester in her own court. Her regal mask cannot hide her clownish antics.
+
+She is offered in a limited edition of nine.
+
+2-9 of 9 available.
