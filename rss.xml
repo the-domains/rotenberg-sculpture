@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 05:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:08:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DRAPED]]></title>
+            <description><![CDATA[<article><h1>DRAPED</h1><p>limited edition of ten - only one more left!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de66b07ea721d005b6c44b87f08e5c3a303ad85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/draped/index.html</link>
+            <guid isPermaLink="false">a81c9783-3871-4101-a403-cb247cf35dc6</guid>
+            <pubDate>Fri, 12 Aug 2016 05:07:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ISABELLE]]></title>
             <description><![CDATA[<article><h1>ISABELLE</h1><p>Reclined in contraction, she expresses a sad vulnerability, a hollow loss, a quiet lamentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a6e4680138879126c26ededec06f067e0ac7bf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/nisa/index.html</link>
             <guid isPermaLink="false">3be94e7f-0934-41a1-8ed8-52f3094ad417</guid>
             <pubDate>Fri, 12 Aug 2016 04:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RITA]]></title>
-            <description><![CDATA[<article><h1>RITA</h1><p>"Rita" - bronze on black granite                                                         34"h x 10"w x 10d</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb256dc83d3cf5fd3c62bd6eb867068e4d70515.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/rita/index.html</link>
-            <guid isPermaLink="false">ab4ec52d-f86a-494b-bf85-a77c832c68a1</guid>
-            <pubDate>Fri, 12 Aug 2016 04:34:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
