@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T14:24:07.320Z'
+datePublished: '2016-08-12T05:15:26.988Z'
 sourcePath: _posts/2016-08-02-priscilla.md
 author: []
 via: {}
-dateModified: '2016-08-06T14:24:06.867Z'
+dateModified: '2016-08-12T05:15:26.407Z'
 title: PRISCILLA
 publisher: {}
 description: >-
@@ -24,3 +24,7 @@ _type: Article
 ### **PRISCILLA**
 
 This dramatic pose, like a bird in flight, requires tremendous strength. Her countenance marked with stubborn pride, her thrown head and extended arms reveal a wild abandonment.
+
+She is offered in a limited edition of nine.
+
+2-9 of 9 available.
