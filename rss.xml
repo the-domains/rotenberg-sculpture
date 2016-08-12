@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 04:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:07:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ISABELLE]]></title>
+            <description><![CDATA[<article><h1>ISABELLE</h1><p>Reclined in contraction, she expresses a sad vulnerability, a hollow loss, a quiet lamentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a6e4680138879126c26ededec06f067e0ac7bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/isabelle/index.html</link>
+            <guid isPermaLink="false">3ff50c43-2d29-46b3-9999-9c63723410b3</guid>
+            <pubDate>Fri, 12 Aug 2016 05:07:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BIRDMAN NO. 2]]></title>
             <description><![CDATA[<article><h1>BIRDMAN NO. 2</h1><h2>Flying </h2><p>Broad wings of shadow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a6992e1716395c7be8642bfc781d6bde002426f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/marion/index.html</link>
             <guid isPermaLink="false">0db202a0-ee31-405c-b3b5-0d369b7eea28</guid>
             <pubDate>Fri, 12 Aug 2016 04:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIRDMAN NO. 1]]></title>
-            <description><![CDATA[<article><h1>BIRDMAN NO. 1</h1><h2>Perched</h2><p>Enraged and violent</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e69a10ab6babd767eef9f93a71b34e795789387.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/birdman-no-1/index.html</link>
-            <guid isPermaLink="false">cb94b286-bbf3-49e3-be1c-6ee12eca7d93</guid>
-            <pubDate>Fri, 12 Aug 2016 04:33:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
