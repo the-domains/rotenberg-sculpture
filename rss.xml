@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 05:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:19:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MARTHA]]></title>
+            <description><![CDATA[<article><h1>MARTHA</h1><p>Inspired by Martha Graham, one of the pioneers of modern dance. Graham developed her own vocabulary of movement when ballet was considered the only widely accepted form of dance. Eschewing the rules of ballet, she found beauty in movement critics likened to giving birth - the contraction - a violence, a forced exhalation of breath. The ribbon represents her blind devotion to her art - “Keep the channel open ... no artist is pleased. There is only a queer divine dissatisfaction, a blessed unrest that keeps us marching and makes us more alive than the others” she wrote to Agnes de Mille.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a11347d6b2c863556bc03e71728ddc52aa98ab2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/martha/index.html</link>
+            <guid isPermaLink="false">fcd793ae-10c9-4470-a3f4-fa0eb2b23a6e</guid>
+            <pubDate>Fri, 12 Aug 2016 05:19:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GISELLE]]></title>
             <description><![CDATA[<article><h1>GISELLE</h1><p>Her movement is reminiscent of the flight of a gazelle. In dance, this position is called a back layout and requires great abdominal strength with a release of the head and arms. Unlike a gazelle’s soft, lustrous eyes, Giselle’s eyes are masked with a hard protective gaze.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/188570e18efbb4afe6c69da6cdf8cb7b4c6e17cc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/marie/index.html</link>
             <guid isPermaLink="false">8a1d7ed7-a78d-43cd-808b-afdb6c91fcd6</guid>
             <pubDate>Fri, 12 Aug 2016 05:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marion]]></title>
-            <description><![CDATA[<article><h1>Marion</h1><p>She is offered in a limited edition of nine.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c720570a18be42e17e91585d80d9129/croprotate.jpg?cropheight=3600&cropwidth=1265&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2674280a-ea1f-41df-93c3-26fe0fdd1861.jpg&x=615&y=0"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/marion/index.html</link>
-            <guid isPermaLink="false">0db202a0-ee31-405c-b3b5-0d369b7eea28</guid>
-            <pubDate>Fri, 12 Aug 2016 05:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
