@@ -4,15 +4,8 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 04:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 04:36:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[CORINNE]]></title>
-            <description><![CDATA[<article><h1>CORINNE</h1><p>Adorned with four thorny spindles of twisted hair, tenously balanced en releve - she is suspended like a marionette without strings. She extends her energy far beyond her own limbs to sustain this position.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ca30506e95fac0b96fbe034c3a60deb547128d8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/corinne/index.html</link>
-            <guid isPermaLink="false">011b6206-4ffb-43fd-be29-c703c032e55c</guid>
-            <pubDate>Fri, 12 Aug 2016 04:36:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[NISA]]></title>
             <description><![CDATA[<article><h1>NISA</h1><p>Her sad face tells of many, thwarted attempts to free herself from her slave’s coil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/284e9d1339c98b186df40bdd2a4ca16de7057a73.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/rotenberg-sculpture/e2dd5753-1c64-4467-9a54-58e70ff87d84/index.html</link>
             <guid isPermaLink="false">e2dd5753-1c64-4467-9a54-58e70ff87d84</guid>
             <pubDate>Tue, 09 Aug 2016 04:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3353f809dbece0ad315aec86addc4ba7985c1567.jpg" alt="&quot;Little Women No. 1&quot;  bronze                                                                              16&quot;h x 7.5&quot;w x 7.5&quot;d">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-1/index.html</link>
+            <guid isPermaLink="false">63037deb-9ded-4723-a384-6ec9ea6ef403</guid>
+            <pubDate>Tue, 09 Aug 2016 04:20:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
