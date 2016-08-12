@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 05:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:24:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SALLY]]></title>
+            <description><![CDATA[<article><h1>SALLY</h1><p>Her hair reminds me of the winged headpiece Sally Fields wore in “The Flying Nun,” a TV show which aired in the late 1960s. There is a tension expressed in her neck from the strain of the forward heaad against the position of the arms.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed597f14ffca3a75d84216dd8035e165/croprotate.jpg?cropheight=3753&cropwidth=2496&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F654102db-1e79-4c1d-ae6b-d7472a911688.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/sally/index.html</link>
+            <guid isPermaLink="false">eb817714-e237-4519-a852-ae8ed6f03bce</guid>
+            <pubDate>Fri, 12 Aug 2016 05:24:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MARTHA]]></title>
             <description><![CDATA[<article><h1>MARTHA</h1><p>Inspired by Martha Graham, one of the pioneers of modern dance. Graham developed her own vocabulary of movement when ballet was considered the only widely accepted form of dance. Eschewing the rules of ballet, she found beauty in movement critics likened to giving birth - the contraction - a violence, a forced exhalation of breath. The ribbon represents her blind devotion to her art - “Keep the channel open ... no artist is pleased. There is only a queer divine dissatisfaction, a blessed unrest that keeps us marching and makes us more alive than the others” she wrote to Agnes de Mille.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a11347d6b2c863556bc03e71728ddc52aa98ab2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-1/index.html</link>
             <guid isPermaLink="false">63037deb-9ded-4723-a384-6ec9ea6ef403</guid>
             <pubDate>Fri, 12 Aug 2016 05:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MARIE]]></title>
-            <description><![CDATA[<article><h1>MARIE</h1><p>Of an 18th century fashion inspired by Marie Antoinette. The position is a simple elevation with the upper torso stretched back and to the side. It is a gentle gesture, a quiet giving.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d97f7bfbfbfff8e54aa5444315866def258a1c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/marie/index.html</link>
-            <guid isPermaLink="false">8a1d7ed7-a78d-43cd-808b-afdb6c91fcd6</guid>
-            <pubDate>Fri, 12 Aug 2016 05:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
