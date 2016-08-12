@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 04:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 04:29:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DRAPED]]></title>
+            <description><![CDATA[<article><h1>DRAPED</h1><p>limited edition of ten - only one more left!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de66b07ea721d005b6c44b87f08e5c3a303ad85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/draped/index.html</link>
+            <guid isPermaLink="false">a81c9783-3871-4101-a403-cb247cf35dc6</guid>
+            <pubDate>Fri, 12 Aug 2016 04:29:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ISABELLE]]></title>
             <description><![CDATA[<article><h1>ISABELLE</h1><p>Reclined in contraction, she expresses a sad vulnerability, a hollow loss, a quiet lamentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a6e4680138879126c26ededec06f067e0ac7bf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/giselle/index.html</link>
             <guid isPermaLink="false">7cf4b1dd-b0bb-4061-8bb6-b965ceee7a08</guid>
             <pubDate>Sun, 07 Aug 2016 05:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PRISCILLA]]></title>
-            <description><![CDATA[<article><h1>PRISCILLA</h1><p>This dramatic pose, like a bird in flight, requires tremendous strength. Her countenance marked with stubborn pride, her thrown head and extended arms reveal a wild abandonment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f80d6d9851cd382884b9fa53419220d3d9da3de.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/priscilla/index.html</link>
-            <guid isPermaLink="false">5cbc3e18-f7f4-4dbe-9b8c-4457b11f8bef</guid>
-            <pubDate>Sat, 06 Aug 2016 14:24:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
