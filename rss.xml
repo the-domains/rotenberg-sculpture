@@ -4,8 +4,15 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 05:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:14:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3353f809dbece0ad315aec86addc4ba7985c1567.jpg" alt="&quot;Little Women No. 1&quot;  bronze                                                                              16&quot;h x 7.5&quot;w x 7.5&quot;d">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-1/index.html</link>
+            <guid isPermaLink="false">63037deb-9ded-4723-a384-6ec9ea6ef403</guid>
+            <pubDate>Fri, 12 Aug 2016 05:14:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MARIE]]></title>
             <description><![CDATA[<article><h1>MARIE</h1><p>Of an 18th century fashion inspired by Marie Antoinette. The position is a simple elevation with the upper torso stretched back and to the side. It is a gentle gesture, a quiet giving.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d97f7bfbfbfff8e54aa5444315866def258a1c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/angele/index.html</link>
             <guid isPermaLink="false">9afad41a-ecc8-46b6-b0ca-f440f442be2d</guid>
             <pubDate>Fri, 12 Aug 2016 04:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GISELLE]]></title>
-            <description><![CDATA[<article><h1>GISELLE</h1><p>Her movement is reminiscent of the flight of a gazelle. In dance, this position is called a back layout and requires great abdominal strength with a release of the head and arms. Unlike a gazelle’s soft, lustrous eyes, Giselle’s eyes are masked with a hard protective gaze.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/188570e18efbb4afe6c69da6cdf8cb7b4c6e17cc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/giselle/index.html</link>
-            <guid isPermaLink="false">7cf4b1dd-b0bb-4061-8bb6-b965ceee7a08</guid>
-            <pubDate>Fri, 12 Aug 2016 04:38:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
