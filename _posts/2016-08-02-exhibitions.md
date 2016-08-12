@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-09T04:19:49.493Z'
+datePublished: '2016-08-12T04:39:41.087Z'
 sourcePath: _posts/2016-08-02-exhibitions.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg
 author: []
 via: {}
-dateModified: '2016-08-09T04:19:49.015Z'
+dateModified: '2016-08-12T04:39:40.591Z'
 title: EXHIBITIONS
 publisher: {}
-description: >-
-  May 21-22, 2016 - “Beverly Hills artSHOW,” Beverly Hills, CAOctober 21-22,
-  2015 -
+description: 'May 21-22, 2016 - “Beverly Hills artSHOW,” Beverly Hills, CA '
 starred: false
 inFeed: true
 hasPage: false
@@ -22,7 +20,7 @@ _type: MediaObject
 
 # **EXHIBITIONS**
 
-May 21-22, 2016 - "Beverly Hills artSHOW," Beverly Hills, CAOctober 21-22, 2015 -
+May 21-22, 2016 - "Beverly Hills artSHOW," Beverly Hills, CA 
 
 October 21-22, 2015 - "Beverly Hills Art Affaire in the Gardens," Beverly Hills, CA
 
@@ -38,7 +36,7 @@ April 9-11, 2009 - "Siren," with photographer Christy Rogers, Spring Art Collect
 
 June 5-18, 2008 - "Flights of Fancy," solo show, Bonner David Galleries, Scottsdale
 
-December 1-9, 2007 - "Biennale Internazionale Dell'Arte Comtemporanea Di Firence," Florence, Itlay
+December 1-9, 2007 - "Biennale Internazionale Dell'Arte Comtemporanea Di Firence," Florence, Italy
 
 November 2007 - Artists For Human Rights Exhibit, James Gray Gallery in Bergamot Station, Santa Monica, CA
 
