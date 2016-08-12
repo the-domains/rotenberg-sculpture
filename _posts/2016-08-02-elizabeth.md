@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-12T05:17:26.822Z'
+datePublished: '2016-08-12T05:17:48.826Z'
 sourcePath: _posts/2016-08-02-elizabeth.md
 author: []
 via: {}
-dateModified: '2016-08-12T05:17:26.304Z'
+dateModified: '2016-08-12T05:17:48.299Z'
 title: ELIZABETH
 publisher: {}
 description: >-
@@ -18,7 +18,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Elizabeth - bronze on black granite                                                                       20"h x 12"w x 17"d](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd9865ccb2553bfde1689ea27eeb8d23f655d7bc.jpg)
+!["Elizabeth" - bronze on black granite                                                               20"h x 12"w x 17"d](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd9865ccb2553bfde1689ea27eeb8d23f655d7bc.jpg)
 
 # **ELIZABETH**
 
