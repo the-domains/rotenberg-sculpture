@@ -4,8 +4,22 @@
         <description><![CDATA[rotenberg sculpture]]></description>
         <link>https://thegrid.ai/rotenberg-sculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 05:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 05:15:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rotenberg-sculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PRISCILLA]]></title>
+            <description><![CDATA[<article><h1>PRISCILLA</h1><p>This dramatic pose, like a bird in flight, requires tremendous strength. Her countenance marked with stubborn pride, her thrown head and extended arms reveal a wild abandonment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f80d6d9851cd382884b9fa53419220d3d9da3de.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/priscilla/index.html</link>
+            <guid isPermaLink="false">5cbc3e18-f7f4-4dbe-9b8c-4457b11f8bef</guid>
+            <pubDate>Fri, 12 Aug 2016 05:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70a1a6ed77371c3f94effb42e983f69e4861565d.jpg" alt="&quot;Little Women No. 3&quot;  bronze                                                                          18&quot;h x 10&quot;w x 6&quot;d">]]></description>
+            <link>https://thegrid.ai/rotenberg-sculpture/little-women-no-3/index.html</link>
+            <guid isPermaLink="false">0893e17d-545e-4713-a156-0c0413f79d5b</guid>
+            <pubDate>Fri, 12 Aug 2016 05:14:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a067756b95f4f0bb1e71d877bf4b7a3403f346c.jpg" alt="&quot;Little Women No. 2&quot;  bronze                                                                           15.5&quot;h x 8.5&quot;d x 6.5&quot;w">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/rotenberg-sculpture/angele/index.html</link>
             <guid isPermaLink="false">7f6313e3-aa74-4976-8c90-0628d94f3705</guid>
             <pubDate>Fri, 12 Aug 2016 05:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIRDMAN NO. 2]]></title>
-            <description><![CDATA[<article><h1>BIRDMAN NO. 2</h1><h2>Flying </h2><p>Broad wings of shadow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a6992e1716395c7be8642bfc781d6bde002426f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rotenberg-sculpture/birdman-no-2/index.html</link>
-            <guid isPermaLink="false">d5208d00-25e8-49ae-b835-b24ef692f637</guid>
-            <pubDate>Fri, 12 Aug 2016 04:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EXHIBITIONS]]></title>
-            <description><![CDATA[<article><h1>EXHIBITIONS</h1><p>May 21-22, 2016 - “Beverly Hills artSHOW,” Beverly Hills, CA </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/968a361e-e1b2-4500-91b5-80097f9596b2.jpg</link>
-            <guid isPermaLink="false">6de57ec0-abe0-4b52-b703-1524a49a0dfb</guid>
-            <pubDate>Fri, 12 Aug 2016 04:39:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
